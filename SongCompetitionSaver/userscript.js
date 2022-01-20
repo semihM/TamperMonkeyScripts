@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         SongCompetitionSaver
 // @namespace    http://tampermonkey.net/
-// @version      0.1.0
-// @description  Automatically save song, artist and link from song competetion
+// @version      0.1.1
+// @description  Save song, artist and link from song competitions by clicking a button before the game
 // @author       semihM (aka rhinoooo_)
 // @source       https://github.com/semihM/TamperMonkeyScripts/blob/main/SongCompetitionSaver
 // @updateURL    https://github.com/semihM/TamperMonkeyScripts/blob/main/SongCompetitionSaver/userscript.js
